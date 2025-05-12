@@ -56,7 +56,7 @@ Everything is done **fully on the frontend**, ensuring speed and offline access.
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/passsaver.git
+git clone https://github.com/sayan922/PassSaver.git
 cd passsaver
 npm install
 npm run dev
